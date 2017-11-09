@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+h1{
+  letter-spacing: 1px;
+font-family: helvetica;
+line-height: 30px;
+   text-transform: lowercase;
+     font-size: 55px;
+     line-height: 60px;
+     position: fixed;
+     top:00px;
+     left:55%;
+     color: #21351b;
+  }
+h2{
+  font-family: helvetica;
+  letter-spacing: 0px;
+  font-style: italic;
+  font-size: 125px;
+  line-height: 125px;
+  position: fixed;
+  top:300px;
+  left:43%;
+  font-weight: lighter;
+  text-align: right;
+  opacity: 0.75;
+  color: #21351b;
+}
+h3{
+  font-family: helvetica;
+  font-size: 15px;
+  position: fixed;
+  top:80px;
+  left:75%;
+  line-height: 15px;
+  letter-spacing: 2px;
+  color: #21351b;
+}
+h4{
+ height:200px;
+  width:200px;
+  position: fixed;
+  top:90px;
+  left:30%;
+margin-left:0px;
+  margin-right:0px;
+  margin-bottom:80px;
+  margin-top:0px;
+  letter-spacing: 13px;
+ text-transform: uppercase;
+line-height: 90px;
+font-size: 95px;
+  font-family: helvetica;
+  font-weight: bold;
+  color: #21351b;
+}
+img {
+  position: fixed;
+  top:180px;
+  left:10%;
+}
+.pestoo{
+  background-image: url(images/pesto.gif);
+}
+</style>
+</head>
+<body>
+  <img src="images/pesto.gif" alt="pestogif" width="1000" height="800">
+  <div class="pestoo">
+<h1>The Pesto Manifesto</h1>
+<h3>Peter<br>Nowogrodzki</h3>
+<br><br>
+  <h4>
+  <em>organic</em> garlic
+  <br>
+  <em>fresh</em> basil
+  <br>
+  pine nuts
+</h4>
+</div>
+<br>
+<br>
+<h2>pesto<br>is a<br>delicacy</h2>
+<br>
+</p>
+</body>
+</html>

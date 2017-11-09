@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+body {
+  padding-left:150px;
+  padding-right:60px;
+  padding-bottom:10px;
+  padding-top:0px;
+}
+body{
+  border: 0.5px solid black;
+}
+body{
+ height:500px;
+}
+body{
+  width:100px;
+}
+body{
+  position: fixed;
+  top:5px;
+  left:20%;
+}
+h1{
+  position: fixed;
+  top:5px;
+  left:40%;
+}
+h1{
+  border: 6px solid black;
+}
+</style>
+</head>
+<body>
+<h1>The Pesto Manifesto</h1>
+<h3><em>organic</em> garlic</h3>
+<br><br>
+<h3><em>fresh</em> basil</h3>
+<br><br>
+<h3>pine nuts</h3>
+<br>
+<strong><br>pesto is a delicacy<br></strong><em>smothered in mediocrity!</em>
+<br><br>
+</p>
+<h6>Peter Nowogrodzki</h6>
+</body>
+<body2>
+</html>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+body{
+ height:20 00px;
+  width:200px;
+  position: fixed;
+  top:0px;
+  left:40%;
+margin-left:0px;
+  margin-right:0px;
+  margin-bottom:80px;
+  margin-top:0px;
+  letter-spacing: 6px;
+ text-transform: uppercase;
+line-height: 60px;
+font-size: 95px;
+  font-family: helvetica;
+}
+h1{
+  letter-spacing: 10px;
+font-family: helvetica;
+line-height: 30px;
+   text-transform: lowercase;
+     font-size: 65px;
+     line-height: 45px;
+     border-bottom: 30px solid black;
+     font-style: italic;
+     position: fixed;
+     top:00px;
+     left:20%;
+  }
+h2{
+  font-family: helvetica;
+  letter-spacing: 16px;
+  font-style: italic;
+  font-size: 35px;
+  line-height: 18px;
+}
+h3{
+  font-family: helvetica;
+  font-size: 10px;
+  position: fixed;
+  top:160px;
+  left:15%;
+  font-weight: bold;
+  line-height: 15px;
+}
+h4{
+    font-family: times;
+    text-transform: lowercase;
+    font-style: italic;
+    letter-spacing: 3px;
+    line-height: 40px;
+    }
+</style>
+</head>
+<body>
+<h1>The Pesto Manifesto:</h1> <h3>Peter<br>Nowogrodzki</h3>
+<br><br>
+<ul>
+<li><h4>organic</h4> garlic</li>
+<br>
+<li><h4>fresh</h4> basil</li>
+<br>
+<li>pine nuts</li>
+<br>
+<br>
+<h2>pesto is a delicacy</h2>
+<br>
+</p>
+</body>
+</html>

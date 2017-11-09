@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+  h3{
+  margin-left:50px;
+  margin-right:0px;
+  margin-bottom:0px;
+  margin-top:50px;
+  border-bottom: 4px solid black;
+  }
+body{
+ height:650px;
+width:500px;
+position: fixed;
+  top:5px;
+  left:20%;
+margin-left:70px;
+  margin-right:70px;
+  margin-bottom:80px;
+  margin-top:80px;
+}
+h2{
+  border: 1px solid black;
+border-bottom: 20px solid black;
+}
+</style>
+</head>
+<body>
+<strong>The Pesto Manifesto:
+<br></strong><em>Peter Nowogrodzki</em>
+<br><br>
+<ul>
+<li><h3>organic</h3> garlic</li>
+<br>
+<li><h3>fresh</h3> basil</li>
+<br>
+<li>pine nuts</li>
+<br>
+<br>
+<h2><em>pesto is a delicacy</em></h2><br>
+</p>
+</body>
+</html>

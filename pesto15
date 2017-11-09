@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+  html{
+    background-color: #99b16b;
+  }
+h1{
+  letter-spacing: 1px;
+font-family: helvetica;
+line-height: 30px;
+   text-transform: lowercase;
+     font-size: 125px;
+     line-height: 90px;
+     margin-left:50px;
+       margin-right:100px;
+       margin-bottom:180px;
+       margin-top:0px;
+       padding-left:0px;
+     padding-right:50px;
+     padding-bottom:0px;
+     padding-top:0px;
+     position: fixed;
+     top:5px;
+     left:40%;
+     color: #698238;
+     }
+h3{
+  font-family: helvetica;
+  font-size: 35px;
+  position: fixed;
+  top:90px;
+  left:40%;
+  line-height: 45px;
+  letter-spacing: 3px;
+  margin-left:0px;
+    margin-right:50px;
+    margin-bottom:180px;
+    margin-top:0px;
+    padding-left:20px;
+  padding-right:300px;
+  padding-bottom:200px;
+  padding-top:150px;
+  color: #698238;
+    opacity:0.5;
+}
+h4{
+  font-family: helvetica;
+ height:600px;
+  width:60px;
+  position: fixed;
+  top:260px;
+  left:10%;
+margin-left:0px;
+  margin-right:0px;
+  margin-bottom:10px;
+  margin-top:0px;
+  letter-spacing: 5px;
+ text-transform: lowercase;
+line-height: 120px;
+font-size: 120px;
+  font-weight: bold;
+  color: #698238;
+}
+h5{
+  font-family: helvetica;
+ height:600px;
+  width:60px;
+  position: fixed;
+  top:130px;
+  left:%;
+margin-left:15px;
+  margin-right:0px;
+  margin-bottom:10px;
+  margin-top:0px;
+  letter-spacing: 5px;
+ text-transform: lowercase;
+line-height: 100px;
+font-size: 100px;
+  font-weight: bold;
+  color: #698238;
+  opacity:0.5;
+}
+img {
+  position: fixed;
+  top:40px;
+  left:50%;
+  border-bottom: 20px solid #698238;
+}
+</style>
+</head>
+<body>
+  <img src="images/pesto.gif" alt="pestogif" width="600" height="400">
+  <div class="pestoo">
+<h1>The<br>Pesto<br>Manifesto</h1>
+<br><br>
+  <h4>
+  garlic
+  <br>
+  basil
+  <br>
+  pine nuts
+</h4>
+<h3>
+<ol>
+  <li>Become inspired by mediocre productions.</li>
+<li>Don’t covert production and experimentation recipe.</li>
+<li>Always leave the edges rough, so that someone can cut themselves.</li>
+<li>A photoshop’d joke is deep and meaningful.</li>
+<li>Take the knife to cultural icons and produce: produce the produce for the recipe and destroy the recipe.</li>
+<li>Follow and muddy up every else’s recipe; pun and play, annihilate and resurrect meaning.</li></ol>
+<em>Peter Nowogrodzki</em>
+<h5>fresh<br>
+organic</h5>
+</h3>
+</div>
+</p>
+</body>
+</html>
